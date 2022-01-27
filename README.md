@@ -1,7 +1,7 @@
-# Segurancadainformacaopython
+# Seguranca #da #informacao #python
 
 1 - Dominar a Linguagem Python para o desenvolvimento de ferramentas para segurança da informação Por que Python?  
-- Linguagem Simplista 
+- - Linguagem Simplista 
 - - Fácil de Programar 
 - - Menos linhas de código 
 - - Orientada a Objetos 
@@ -9,4 +9,4 @@
 - - Multiplataforma  
 - 
 - 
-- -Além da facilidade de iniciação no Python e da pequena curva de aprendizagem de qualquer linguagem para Python , a mesma é amplamente utilizada na área de Segurança da informação facilitando desde desenvolvimentos de scripts de automação até o desenvolvimento de ferramentas e projetos inteiros utilizando a linguagem e suas facilidades.
+- - Além da facilidade de iniciação no Python e da pequena curva de aprendizagem de qualquer linguagem para Python , a mesma é amplamente utilizada na área de Segurança da informação facilitando desde desenvolvimentos de scripts de automação até o desenvolvimento de ferramentas e projetos inteiros utilizando a linguagem e suas facilidades.
