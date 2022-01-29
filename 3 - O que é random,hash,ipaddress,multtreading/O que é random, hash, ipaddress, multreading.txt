@@ -1,0 +1,41 @@
+1 -Desenvolvimento de Ferramentas
+- O que é a Biblioteca random?
+- O que é um Hash?
+- O que é a biblioteca hashlib?
+- O que é Multithreading?
+- O que é a biblioteca threading?
+- O que é a biblioteca ipaddress?
+- Desenvolvimento de um gerador de senhas
+- Desenvolvimento de um comparador de Hash
+- Trabalhando com threads e IP
+
+2 - Biblioteca Random
+- Esta biblioteca implementa geradores de números
+pseudoaleatórios para várias distribuições.
+- Esta biblioteca será utilizada no gerador de senha
+para randomizar letras e números e a cada execução do
+programa gerar uma nova senha aleatória.
+(Autenticação)(Confidencialidade)
+
+3 - Hash
+- O hash é como se fosse um identificador único gerado
+através de um algoritmo que vai analisar byte a byte de determinado
+dado para gerar de forma única, um determinado código que só aquele arquivo
+terá. Se neste mesmo arquivo um único bit for alterado o hash gerada será diferente.
+
+-https://md5decrypt.net/en/
+(Integridade)
+
+- Hashlib
+- Esta biblioteca implementa uma interface comum para muitos algoritmos de hash
+seguro como SHA1, SHA256, MD5 entre outros.
+
+- Usaremos esta biblioteca em nosso comparador de hashes para comparar dois arquivos.
+
+4 - Multithreading
+- Thread é o processo e no ambiente multithread, cada processo pode
+responder a várias solicitações concorrentemente ou mesmo simultaneamente.
+
+5 - Ipaddress
+- Esta biblioteca tem a capacidade de criar, manipular endereços IP do tipo IPv4, IPv6
+e até redes inteiras.

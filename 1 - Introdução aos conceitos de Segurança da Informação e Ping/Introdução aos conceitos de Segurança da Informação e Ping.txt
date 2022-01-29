@@ -1,0 +1,74 @@
+1 - Dominar a Linguagem Python para o desenvolvimento de ferramentas para segurança da informação
+Por que Python?
+
+- Linguagem Simplista - Fácil de Programar
+- Menos linhas de código
+- Orientada a Objetos
+- Api's e bibliotecas Prontas para Redes, Web, etc.
+- Multiplataforma
+
+-Além da facilidade de iniciação no Python e da pequena
+curva de aprendizagem de qualquer linguagem para Python
+, a mesma é amplamente utilizada na área de Segurança da
+informação facilitando desde desenvolvimentos de scripts
+de automação até o desenvolvimento de ferramentas e projetos
+inteiros utilizando a linguagem e suas facilidades.
+
+2 - O que é dado?
+- Dado pode ser uma representação simbólica, numérica ou 
+textual qualquer.
+
+3 - O que é a informação?
+- Informação é o conjunto ou a junção dos dados que fazem 
+o contexto ou sentido.
+
+4 - O que é segurança da informação?
+- Àrea que tem como objetivo assegurar que todos os dados de uma
+ou mais informações estejam sempre
+confidenciais. íntegros e disponíveis em qualquer meio de comunicação.
+
+5 - Por que Segurança?
+- O ser humano tem necessidade de segurança
+
+6 - Princípios da Segurança da Informação
+
+- Integridade
+-- Princípio que visa proteger a informação de alterações indevidas
+
+- Confidencialidade
+-- Princípio que visa manter uma informação confidencial
+
+- Disponibilidade
+-- Princípio que visa garantir que um recurso e/ou informação esteja
+disponível
+
+- Identificação
+-- Princípio que visa identificar uma entidade
+
+- Autenticação
+-- Princípio que visa verificar a entidade e suas credencias
+
+- Autorização
+-- Princípio que visa autorizar a entidade dentro de um sistema
+
+- Não Repúdio
+-- Princípio que visa evitar que uma entidade negue suas ações em um sistema
+
+7 - O que é ICMP?
+- O ICMP (Internet Control Message Protocol), é um protocolo integrante do Protocolo IP
+utilizado para fornecer relatórios de erros à fonte original.
+
+8 - O que é o PING?
+- O ping é uma ferramenta que usa o protocolo ICMP para testar a 
+conectividade entre nós. È um comando disponível praticamente em todos os sistemas operacionais que consiste
+no envio de pacotes para o equipamento de destino e na "escuta" das respostas.
+
+\helson>ping www.google.com
+\helson>ping -n 6 www.google.com
+
+9 - Desenvolver um Sistema com o Python
+1 - Biblioteca OS
+- Este módulo fornece uma maneira simples de usar funcionalidades
+que são dependentes de sistema operacional.
+2 - Biblioteca time
+- Este módulo fornece várias funções relacionadas ao tempo, como por exemplo tempo de excecução.
