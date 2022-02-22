@@ -10,3 +10,4 @@ iterações como permutação e combinação
 
 - Usaremos esta biblioteca para gerar uma lista com vários
 caracteres diferentes e sem repetição de palavras.
+---------------------------------------------

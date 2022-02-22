@@ -10,7 +10,7 @@ arquivos HTML e XML.
 - Requests - permite que você envie solicitação HTTP
 em Python.
 
-2 - Web Crawler
+2 - Web Crawler-
 - Web crawler é uma ferramenta usada para encontrar, ler e indexar páginas
 de um site. È como um robô que captura informações de cada um dos links que encontra
 pela frente, cadastra e compreende o que é mais relevante. (palavras-chaves)
