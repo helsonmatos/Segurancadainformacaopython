@@ -1,4 +1,4 @@
-# Seguranca #da #informacao #python
+# Seguranca da Informacão Python
 
 - - Dominar a Linguagem Python para o desenvolvimento de ferramentas para segurança da informação Por que Python?  
 - - Linguagem Simplista 
